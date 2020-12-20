@@ -2,3 +2,6 @@ datasets/*
 other*
 .ipynb*
 debug.log
+assignment_1.ipynb
+nb13a_plotting.ipynb
+size_vs_deg.ipynb
