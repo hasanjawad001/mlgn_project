@@ -1,12 +1,12 @@
 # Causal Analysis in Large Graph Networks
 
-This project focuses on performing causal analysis in a large-scale graph network. The analysis covers connected component distributions, overall network structures, and causal relationships within subclusters. Various clustering algorithms such as Louvain and Girvan-Newman have been applied to identify meaningful subclusters, followed by causal analysis on graph characteristics.
+This project focuses on performing causal analysis in a large-scale graph network. The analysis covers connected component distributions, overall network structures, and causal relationships within subclusters. Various clustering algorithms such as Louvain and Girvan-Newmann have been applied to identify meaningful subclusters, followed by causal analysis on graph characteristics.
 
 ## Visualizations
 
 ### 1. Connected Component Size Distribution
 ![Skewed Distribution](skewed_1.png)
-This plot shows the connected component size distribution with the Y-axis in log scale.
+This plot shows the connected component size distribution vs # of nodes/edges in log scale.
 
 ### 2. Network Structure Analysis
 - **Overall Network Structure**  
