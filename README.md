@@ -12,7 +12,7 @@ This plot shows the connected component size distribution with the Y-axis in log
 - **Overall Network Structure**  
   ![Overall Network Structure](lwcc2_overall.png)
 - **Louvain Subclustering**  
-  ![Louvain Subclustering](lwcc2_louvin.png)
+  ![Louvain Subclustering](lwcc2_louvain.png)
 - **Girvan-Newman Subclustering**  
   ![Girvan-Newman Subclustering](lwcc2_girvan.png)
 
